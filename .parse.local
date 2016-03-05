@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "(VanHacks) dwabit": {
+      "applicationId": "bjh3ara0ERgq6eMUQWyu8nQasU9Q8MwFUmAxq5LL"
+    },
+    "_default": {
+      "link": "(VanHacks) dwabit"
+    }
+  }
+}
